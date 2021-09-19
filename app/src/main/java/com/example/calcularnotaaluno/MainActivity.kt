@@ -30,8 +30,6 @@ class MainActivity : AppCompatActivity() {
                 txtResultado.setText("Aluno foi Reprovado" + "\n" + "Nota Final: " + media + "\n" + "faltas " + txtFaltas )
                 txtResultado.setTextColor(Color.RED)
             }
-
         }
-
     }
 }
